@@ -1,2 +1,5 @@
 venv/
 ML/
+__pycache__/
+*.pyc
+.env
